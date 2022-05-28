@@ -1,6 +1,7 @@
-## Quick start
+<p align="center"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" width="200px"></p>
 
-Chapter 02 - Data Binding Vue JS
+<h2>Chapter 02 - Data Binding Vue JS</h2>
+
 - Class 01: Hello-world in Vue JS
 - Class 02: Data-binding in Vue JS
 - Class 03: Two-way-databing in Vue JS
